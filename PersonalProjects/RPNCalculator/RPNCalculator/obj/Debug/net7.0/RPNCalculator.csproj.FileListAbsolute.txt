@@ -1,0 +1,15 @@
+E:\Coding\Portfolio_Projects\RPNCalculator\RPNCalculator\obj\Debug\net7.0\RPNCalculator.csproj.AssemblyReference.cache
+E:\Coding\Portfolio_Projects\RPNCalculator\RPNCalculator\obj\Debug\net7.0\RPNCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Portfolio_Projects\RPNCalculator\RPNCalculator\obj\Debug\net7.0\RPNCalculator.AssemblyInfoInputs.cache
+E:\Coding\Portfolio_Projects\RPNCalculator\RPNCalculator\obj\Debug\net7.0\RPNCalculator.AssemblyInfo.cs
+E:\Coding\Portfolio_Projects\RPNCalculator\RPNCalculator\obj\Debug\net7.0\RPNCalculator.csproj.CoreCompileInputs.cache
+E:\Coding\Portfolio_Projects\RPNCalculator\RPNCalculator\bin\Debug\net7.0\RPNCalculator.exe
+E:\Coding\Portfolio_Projects\RPNCalculator\RPNCalculator\bin\Debug\net7.0\RPNCalculator.deps.json
+E:\Coding\Portfolio_Projects\RPNCalculator\RPNCalculator\bin\Debug\net7.0\RPNCalculator.runtimeconfig.json
+E:\Coding\Portfolio_Projects\RPNCalculator\RPNCalculator\bin\Debug\net7.0\RPNCalculator.dll
+E:\Coding\Portfolio_Projects\RPNCalculator\RPNCalculator\bin\Debug\net7.0\RPNCalculator.pdb
+E:\Coding\Portfolio_Projects\RPNCalculator\RPNCalculator\obj\Debug\net7.0\RPNCalculator.dll
+E:\Coding\Portfolio_Projects\RPNCalculator\RPNCalculator\obj\Debug\net7.0\refint\RPNCalculator.dll
+E:\Coding\Portfolio_Projects\RPNCalculator\RPNCalculator\obj\Debug\net7.0\RPNCalculator.pdb
+E:\Coding\Portfolio_Projects\RPNCalculator\RPNCalculator\obj\Debug\net7.0\RPNCalculator.genruntimeconfig.cache
+E:\Coding\Portfolio_Projects\RPNCalculator\RPNCalculator\obj\Debug\net7.0\ref\RPNCalculator.dll
