@@ -1,0 +1,15 @@
+E:\Coding\Portfolio_Projects\QuickSortCSharp\QuickSortCSharp\bin\Debug\net7.0\QuickSortCSharp.exe
+E:\Coding\Portfolio_Projects\QuickSortCSharp\QuickSortCSharp\bin\Debug\net7.0\QuickSortCSharp.deps.json
+E:\Coding\Portfolio_Projects\QuickSortCSharp\QuickSortCSharp\bin\Debug\net7.0\QuickSortCSharp.runtimeconfig.json
+E:\Coding\Portfolio_Projects\QuickSortCSharp\QuickSortCSharp\bin\Debug\net7.0\QuickSortCSharp.dll
+E:\Coding\Portfolio_Projects\QuickSortCSharp\QuickSortCSharp\bin\Debug\net7.0\QuickSortCSharp.pdb
+E:\Coding\Portfolio_Projects\QuickSortCSharp\QuickSortCSharp\obj\Debug\net7.0\QuickSortCSharp.csproj.AssemblyReference.cache
+E:\Coding\Portfolio_Projects\QuickSortCSharp\QuickSortCSharp\obj\Debug\net7.0\QuickSortCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Portfolio_Projects\QuickSortCSharp\QuickSortCSharp\obj\Debug\net7.0\QuickSortCSharp.AssemblyInfoInputs.cache
+E:\Coding\Portfolio_Projects\QuickSortCSharp\QuickSortCSharp\obj\Debug\net7.0\QuickSortCSharp.AssemblyInfo.cs
+E:\Coding\Portfolio_Projects\QuickSortCSharp\QuickSortCSharp\obj\Debug\net7.0\QuickSortCSharp.csproj.CoreCompileInputs.cache
+E:\Coding\Portfolio_Projects\QuickSortCSharp\QuickSortCSharp\obj\Debug\net7.0\QuickSortCSharp.dll
+E:\Coding\Portfolio_Projects\QuickSortCSharp\QuickSortCSharp\obj\Debug\net7.0\refint\QuickSortCSharp.dll
+E:\Coding\Portfolio_Projects\QuickSortCSharp\QuickSortCSharp\obj\Debug\net7.0\QuickSortCSharp.pdb
+E:\Coding\Portfolio_Projects\QuickSortCSharp\QuickSortCSharp\obj\Debug\net7.0\QuickSortCSharp.genruntimeconfig.cache
+E:\Coding\Portfolio_Projects\QuickSortCSharp\QuickSortCSharp\obj\Debug\net7.0\ref\QuickSortCSharp.dll
