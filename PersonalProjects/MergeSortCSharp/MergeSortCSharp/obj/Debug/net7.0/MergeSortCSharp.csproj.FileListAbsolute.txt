@@ -1,0 +1,15 @@
+E:\Coding\Portfolio_Projects\MergeSortCSharp\MergeSortCSharp\bin\Debug\net7.0\MergeSortCSharp.exe
+E:\Coding\Portfolio_Projects\MergeSortCSharp\MergeSortCSharp\bin\Debug\net7.0\MergeSortCSharp.deps.json
+E:\Coding\Portfolio_Projects\MergeSortCSharp\MergeSortCSharp\bin\Debug\net7.0\MergeSortCSharp.runtimeconfig.json
+E:\Coding\Portfolio_Projects\MergeSortCSharp\MergeSortCSharp\bin\Debug\net7.0\MergeSortCSharp.dll
+E:\Coding\Portfolio_Projects\MergeSortCSharp\MergeSortCSharp\bin\Debug\net7.0\MergeSortCSharp.pdb
+E:\Coding\Portfolio_Projects\MergeSortCSharp\MergeSortCSharp\obj\Debug\net7.0\MergeSortCSharp.csproj.AssemblyReference.cache
+E:\Coding\Portfolio_Projects\MergeSortCSharp\MergeSortCSharp\obj\Debug\net7.0\MergeSortCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Portfolio_Projects\MergeSortCSharp\MergeSortCSharp\obj\Debug\net7.0\MergeSortCSharp.AssemblyInfoInputs.cache
+E:\Coding\Portfolio_Projects\MergeSortCSharp\MergeSortCSharp\obj\Debug\net7.0\MergeSortCSharp.AssemblyInfo.cs
+E:\Coding\Portfolio_Projects\MergeSortCSharp\MergeSortCSharp\obj\Debug\net7.0\MergeSortCSharp.csproj.CoreCompileInputs.cache
+E:\Coding\Portfolio_Projects\MergeSortCSharp\MergeSortCSharp\obj\Debug\net7.0\MergeSortCSharp.dll
+E:\Coding\Portfolio_Projects\MergeSortCSharp\MergeSortCSharp\obj\Debug\net7.0\refint\MergeSortCSharp.dll
+E:\Coding\Portfolio_Projects\MergeSortCSharp\MergeSortCSharp\obj\Debug\net7.0\MergeSortCSharp.pdb
+E:\Coding\Portfolio_Projects\MergeSortCSharp\MergeSortCSharp\obj\Debug\net7.0\MergeSortCSharp.genruntimeconfig.cache
+E:\Coding\Portfolio_Projects\MergeSortCSharp\MergeSortCSharp\obj\Debug\net7.0\ref\MergeSortCSharp.dll
